@@ -1,0 +1,1 @@
+web: gunicorn CODESTART_2021.wsgi
